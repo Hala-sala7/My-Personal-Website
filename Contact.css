@@ -13,11 +13,12 @@ header {
     padding:1rem;
     margin-left: 400px;
 }
-.header {
-    transform: translate(85px , 55px);
-}
+ .header {
+    transform: translate(85px , 45px);
+    width: fit-content;
+} 
 main {
-    padding: 2rem;
+     padding: 2rem; 
 }
 
 .contact-form {
@@ -61,7 +62,7 @@ main {
 
 
 footer {
-    width: 100%;
+    width: 1643px;
     background-color: #8A7583;
     color: white;
     display: flex;
